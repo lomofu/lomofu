@@ -1,7 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=false&vCenter=true&lines=Hello,%20this%20is%20lomofu)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+Hi, my name is lomofu. Currently, I play a role of software developer.
+
+<hr>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomofu&layout=compact" />
 
 <!--
 **lomofu/lomofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
