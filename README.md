@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Jiganesh+here!%2F%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=Hello,%20this%20is%20lomofu)
 
 <!--
 **lomofu/lomofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
